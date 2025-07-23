@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FaceDectectionApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:colorBackground">@color/light_grey</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+    </style>
+
+    <style name="Theme.FaceDectectionApp" parent="Base.Theme.FaceDectectionApp" />
+</resources>
